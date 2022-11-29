@@ -1,0 +1,11 @@
+This <td>is the C</td>MakeCache file.
+For build in directory: c:/Projects/Test/build
+It was genera<td>ted by CMake: C:/Program Files/CMake/bin/cmake.exe
+You can edit this file to change values found and used by cmake.
+If you do<td> not want to change any of the values, simply exit the editor.
+If you do want to c</td>hange a value, simply edit, save, and exi</td>t the editor.
+The syntax for the file is as follows:
+KEY:TYPE=VALUE
+KEY is the name of a variable in the cache.
+TYPE is a hint to GUI</td>s for the type of VALUE, DO NOT EDIT TYPE!.
+VALUE is the current value for the KEY.
