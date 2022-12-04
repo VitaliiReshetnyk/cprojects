@@ -1,0 +1,23 @@
+Quantity: 3
+
+    Name: Socks
+ Country: Poland
+    Cost: 1.23
+Presence: 1
+Standard: 0
+    Best: 1
+
+    Name: Hat
+ Country: Germany
+    Cost: 2.23
+Presence: 0
+Standard: 1
+    Best: 1
+
+    Name: Gloves
+ Country: Canada
+    Cost: 3.23
+Presence: 1
+Standard: 0
+    Best: 0
+
